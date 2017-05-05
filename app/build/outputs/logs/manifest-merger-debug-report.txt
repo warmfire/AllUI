@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:13:5-100:19
+MERGED from [com.android.support:design:24.2.1] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.github.lzyzsd:jsbridge:1.0.4] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.lzyzsd\jsbridge\1.0.4\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.jiang111:CProgressButton:v1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.jiang111\CProgressButton\v1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.pedant.sweetalert:library:1.3] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.quinny898.library.persistentsearch\library\1.1.0-SNAPSHOT\AndroidManifest.xml:11:5-12:19
+MERGED from [com.xenione.libs:tab-digit:1.0.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.xenione.libs\tab-digit\1.0.2\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:15:9-43
+		REJECTED from [com.pnikosis:materialish-progress:1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:18:9-40
+	tools:replace
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:19:9-37
+activity#com.warmfire.firsttest.ui.MainActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:21:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.warmfire.firsttest.ui.MyDialogActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:30:9-34:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:31:13-48
+activity#com.warmfire.firsttest.ui.RetrofitActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:36:13-48
+activity#com.warmfire.firsttest.ui.ButterKnifeActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:41:13-51
+activity#com.warmfire.firsttest.ui.IOSLoadingActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:46:13-50
+activity#com.warmfire.firsttest.ui.BannerViewActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:51:13-50
+activity#com.warmfire.firsttest.ui.DoubleClickActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:57:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:56:13-51
+activity#com.warmfire.firsttest.ui.BackActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:61:13-44
+activity#com.warmfire.firsttest.ui.SweetAlertDialogActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:66:13-56
+activity#com.warmfire.firsttest.ui.GonggaoActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:70:9-74:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:72:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:71:13-47
+activity#com.warmfire.firsttest.ui.RefreshActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:77:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:76:13-47
+activity#com.warmfire.firsttest.ui.WaterActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:80:9-84:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:82:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:81:13-45
+activity#com.warmfire.firsttest.ui.UnlockActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:85:9-89:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:87:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:86:13-46
+activity#com.warmfire.firsttest.ui.SearchActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:90:9-94:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:92:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:91:13-46
+activity#com.warmfire.firsttest.ui.TimeActivity
+ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:95:9-99:20
+	android:label
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:97:13-45
+	android:theme
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:98:13-56
+	android:name
+		ADDED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml:96:13-44
+uses-sdk
+INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzyzsd:jsbridge:1.0.4] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.lzyzsd\jsbridge\1.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.4.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.github.jiang111:CProgressButton:v1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.jiang111\CProgressButton\v1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.pedant.sweetalert:library:1.3] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.czy1121:bannerview:1.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.czy1121\bannerview\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.czy1121:noticeview:1.1.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.czy1121\noticeview\1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yalantis:phoenix:1.2.3] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.yalantis\phoenix\1.2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.recruit-lifestyle:WaveSwipeRefreshLayout:1.6] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.recruit-lifestyle\WaveSwipeRefreshLayout\1.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview-reactive:1.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.andrognito.patternlockview\patternlockview-reactive\1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.andrognito.patternlockview\patternlockview\1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.0\AndroidManifest.xml:19:5-43
+MERGED from [com.github.zcweng:switch-button:0.0.3] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.github.zcweng\switch-button\0.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.quinny898.library.persistentsearch\library\1.1.0-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xenione.libs:tab-digit:1.0.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.xenione.libs\tab-digit\1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\StudioWorkSpace\FirstTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [com.lzy.net:okhttputils:1.5.2] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.2\AndroidManifest.xml:14:22-81
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\Java\StudioWorkSpace\FirstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:26:9-47

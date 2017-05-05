@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mic_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_exposure_plus_2_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exposure_plus_2_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_reply_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_reply_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_autorenew_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_autorenew_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_delete_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_web_mac_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_web_mac_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_chat_black_24dp.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chat_black_24dp.xml"
+    }
+]

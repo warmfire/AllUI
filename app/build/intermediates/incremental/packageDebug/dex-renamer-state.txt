@@ -1,0 +1,7 @@
+#Fri May 05 13:37:02 CST 2017
+base.0=D\:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c74db70efb595917bdc81fe9144afbcd05155b1a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b316643ee1266544e76b224c4538a1659f5f6e0d\\classes.dex
+base.1=D\:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b316643ee1266544e76b224c4538a1659f5f6e0d
+file.0=D\:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c74db70efb595917bdc81fe9144afbcd05155b1a\\classes.dex

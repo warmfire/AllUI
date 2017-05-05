@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <declare-styleable name="CProgressButton"><attr format="color" name="color"/><attr format="reference" name="drawable_xml"/><attr format="dimension" name="stroke_width"/><attr format="dimension" name="radius"/></declare-styleable>
+    <string name="app_name">PButton</string>
+</resources>

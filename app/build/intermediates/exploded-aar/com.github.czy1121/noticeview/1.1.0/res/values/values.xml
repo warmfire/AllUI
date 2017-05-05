@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NoticeView"><attr format="reference" name="nvIcon"/><attr format="dimension" name="nvIconPadding"/><attr format="color" name="nvIconTint"/><attr format="dimension" name="nvTextSize"/><attr format="color" name="nvTextColor"/><attr format="integer" name="nvTextMaxLines"/><attr format="integer" name="nvTextGravity">
+            <enum name="left" value="3"/>
+            <enum name="center" value="17"/>
+            <enum name="right" value="5"/>
+        </attr><attr format="integer" name="nvInterval"/><attr format="integer" name="nvDuration"/></declare-styleable>
+</resources>

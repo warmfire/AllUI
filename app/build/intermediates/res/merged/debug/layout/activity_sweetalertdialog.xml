@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/layout_title"></include>
+
+    <Button
+        android:id="@+id/dialog_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ERROR_TYPE"/>
+
+    <Button
+        android:id="@+id/dialog_success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUCCESS_TYPE"/>
+
+    <Button
+        android:id="@+id/dialog_warning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WARNING_TYPE"/>
+
+    <Button
+        android:id="@+id/dialog_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CUSTOM_IMAGE_TYPE"/>
+
+    <Button
+        android:id="@+id/dialog_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROGRESS_TYPE"/>
+
+    <Button
+        android:id="@+id/dialog_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NORMAL_TYPE"/>
+
+</LinearLayout>

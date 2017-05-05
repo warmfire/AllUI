@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_down.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\anim\\anim_down.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\anim\\abc_fade_out.xml"
+    }
+]

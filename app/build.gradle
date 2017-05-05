@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+apply plugin: 'android-apt'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+    defaultConfig {
+        applicationId "com.warmfire.firsttest"
+        minSdkVersion 16
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24.0.1'
+    compile 'com.android.support:design:24.2.1'
+    testCompile 'junit:junit:4.12'
+    // okhttputils下载
+    compile 'com.lzy.net:okhttputils:1.5.2'
+    compile 'com.squareup.okhttp3:okhttp:3.3.1'
+    compile 'com.squareup.okhttp3:okhttp-urlconnection:3.3.1'
+    // 网页桥
+    compile 'com.github.lzyzsd:jsbridge:1.0.4'
+    //compile files('libs/cordova-5.1.1.jar')
+    // retrofit
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.google.code.gson:gson:2.3'
+    // ButterKnife
+    compile 'com.jakewharton:butterknife:8.4.0'
+    apt 'com.jakewharton:butterknife-compiler:8.4.0'
+    // 仿iOS进度条
+    compile 'com.github.jiang111:CProgressButton:v1.0'
+    // 漂亮的dialog
+    compile 'cn.pedant.sweetalert:library:1.3'
+    // BannerView轮播图
+    compile 'com.github.czy1121:bannerview:1.0.0'
+    compile 'com.github.bumptech.glide:glide:4.0.0-SNAPSHOT'
+    // 右滑退出
+    compile 'me.imid.swipebacklayout.lib:library:1.0.0'
+    // 公告
+    compile 'com.github.czy1121:noticeview:1.1.0'
+    // 下拉刷新1
+    compile 'com.yalantis:phoenix:1.2.3'
+    // 下拉刷新2
+    compile 'com.github.recruit-lifestyle:WaveSwipeRefreshLayout:1.6'
+    // 手势密码
+    compile 'com.andrognito.patternlockview:patternlockview:1.0.0'
+    compile 'com.andrognito.patternlockview:patternlockview-reactive:1.0.0'
+    // ios开关
+    compile 'com.github.zcweng:switch-button:0.0.3@aar'
+    // 搜索框
+    compile 'com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT'
+    // 记分牌式倒计时
+    compile 'com.xenione.libs:tab-digit:1.0.2'
+}

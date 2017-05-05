@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/layout_title"></include>
+
+    <TextView
+        android:id="@+id/state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="state"
+        android:textSize="25dp"
+        android:textColor="#000000"/>
+
+    <com.jiang.android.pbutton.CProgressButton
+        android:id="@+id/iosbtn"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:text="下载"
+        android:textSize="12sp"
+        android:textColor="#3039F9"
+        app:stroke_width="1dp"
+        app:radius="5dp"
+        app:color="@color/colorPrimaryDark"
+        app:drawable_xml="@drawable/bounder" />
+
+    <com.suke.widget.SwitchButton
+        android:id="@+id/switch_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"/>
+
+    <com.warmfire.firsttest.utils.BezierView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent" />
+
+</LinearLayout>

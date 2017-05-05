@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_mic.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\drawable-hdpi\\ic_action_mic.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit_to_app_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mic_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chat_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chat_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_bg.9.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\drawable-hdpi\\search_bg.9.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exposure_plus_2_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exposure_plus_2_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_up.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\drawable-hdpi\\ic_up.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_web_mac_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_web_mac_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_vert_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\drawable-hdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_autorenew_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\exploded-aar\\com.quinny898.library.persistentsearch\\library\\1.1.0-SNAPSHOT\\res\\drawable-hdpi\\ic_clear.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reply_black_24dp.png",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_reply_black_24dp.png"
+    }
+]

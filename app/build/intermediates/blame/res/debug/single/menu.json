@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Java\\StudioWorkSpace\\FirstTest\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mydialog"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="自定义dialog" />
+        <item
+            android:id="@+id/nav_retrofit"
+            android:icon="@drawable/ic_web_mac_black_24dp"
+            android:title="Retrofit" />
+        <item
+            android:id="@+id/nav_butterknife"
+            android:icon="@drawable/ic_web_mac_black_24dp"
+            android:title="ButterKnife" />
+        <item
+            android:id="@+id/nav_iosloading"
+            android:icon="@drawable/ic_autorenew_black_24dp"
+            android:title="仿iOS进度条" />
+        <item
+            android:id="@+id/nav_bannerview"
+            android:icon="@drawable/ic_web_mac_black_24dp"
+            android:title="BannerView" />
+        <item
+            android:id="@+id/nav_doubleclick"
+            android:icon="@drawable/ic_exposure_plus_2_black_24dp"
+            android:title="双击" />
+        <item
+            android:id="@+id/nav_back"
+            android:icon="@drawable/ic_reply_black_24dp"
+            android:title="滑动返回" />
+        <item
+            android:id="@+id/nav_sweet"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="漂亮的dialog" />
+        <item
+            android:id="@+id/nav_gonggao"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="公告" />
+        <item
+            android:id="@+id/nav_refresh"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="下拉刷新" />
+        <item
+            android:id="@+id/nav_water"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="水波" />
+        <item
+            android:id="@+id/nav_unlock"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="手势密码" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="搜索" />
+        <item
+            android:id="@+id/nav_time"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="倒计时" />
+    </group>
+
+    <item android:title="设置">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_delete_black_24dp"
+                android:title="清空缓存" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="退出" />
+        </menu>
+    </item>
+
+</menu>
